@@ -133,6 +133,7 @@ Updated Bala's mark to 82.
 student_marks["Bala"] = 82
 
 Dictionary Methods
+
 The keys(), values(), and items() methods were used to display the contents of the dictionary.
 
 print("Keys:", student_marks.keys())
@@ -167,16 +168,19 @@ except TypeError:
     print("Error: Sets do not support indexing.")
 
 Explanation
+
 Sets do not support indexing because they are unordered collections. Therefore, attempting to access my_set[4] results in a TypeError.
 
 Union and Intersection
+
 Two sets were created:
 
 set1 = {1, 3, 5, 7, 9}
 
 set2 = {2, 3, 5, 8, 10}
 
-Union
+Union:
+
 The Union contains all unique elements from both sets.
 
 union_set = set1.union(set2)
@@ -187,7 +191,8 @@ Output:
 
 {1, 2, 3, 5, 7, 8, 9, 10}
 
-Intersection
+Intersection:
+
 The Intersection contains the elements that are common to both sets.
 
 intersection_set = set1.intersection(set2)
@@ -251,17 +256,20 @@ elif Statement	✅ Completed
 else Statement	✅ Completed
 User Input	✅ Completed
 
-✅ Conclusion
+✅ Conclusion:
+
 This assignment provided practical experience with Python's fundamental data structures and conditional statements.
 
 The programs demonstrate how to create, modify, access, and process data using Lists, Dictionaries, and Sets. The assignment also demonstrates decision-making using if, elif, and else statements along with user input.
 
 🛠️ Technologies Used
+
 Python
 Google Colab
 GitHub
 
 📁 Project File
+
 The complete Python assignment is available in the Google colab (.ipynb) file included in this repository.
 
 👩‍💻 Author
