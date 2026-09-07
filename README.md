@@ -34,15 +34,11 @@ The main objectives of this assignment are:
 
 ---
 
-# 📋 Tasks Performed
-
-## 1. Lists – Creation, Modification & Access
-
-### List Creation
-
+📋 Tasks Performed
+1. Lists – Creation, Modification & Access
+List Creation
 Created two lists containing age and name values.
 
-```python
 age_list = [24, 25, 27, 28, 29]
 
 name_list = ["Arun", "Bala", "Divya", "Kavya", "Meena"]
@@ -284,4 +280,3 @@ https://github.com/Maathangi1412
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/maathangip
-
